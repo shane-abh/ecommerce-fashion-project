@@ -1,0 +1,1 @@
+ D:\\flutterProjects\\fashion_ecommerce_project\\.dart_tool\\flutter_build\\dfa96f2fb2660566564a3b9be70e8ef4\\native_assets.yaml: 

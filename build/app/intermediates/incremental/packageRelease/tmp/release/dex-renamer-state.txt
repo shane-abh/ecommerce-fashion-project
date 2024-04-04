@@ -1,0 +1,4 @@
+#Wed Apr 03 17:07:58 EDT 2024
+base.0=D\:\\flutterProjects\\fashion_ecommerce_project\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
