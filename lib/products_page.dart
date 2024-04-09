@@ -178,16 +178,15 @@ class ProductsPage extends StatelessWidget {
                             (index) => GridTile(
 
                               child: Card(
+
+                                elevation: 1,
                                 color: const Color(0xFFFFFBFF),
                                 child: Column(
-                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
-                                    SizedBox(
-                                      width: double.infinity,
-                                      height: 80,
+                                    Expanded(
                                       child: ClipRRect(
-                                        borderRadius:
-                                            BorderRadius.circular(8.0),
+                                       
                                         child: Image.asset(
                                           products[index].imageUrl[0],
                                           fit: BoxFit.contain,
